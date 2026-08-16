@@ -11,7 +11,13 @@ S = Endorse
 B = Visit JP page, twice move back to JP
 F = Move to region
 A = Refresh
+D = Appoint RO
+K = Eject
 O = Ban
+Q = Go Back
+U = Update Check
+B = Move to House Boucher
+W = View Current Region
 ===============================
 
 3.1 
